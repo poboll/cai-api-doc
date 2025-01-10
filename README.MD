@@ -12,4 +12,4 @@ src="docs/.vuepress/public/img/gif/logo.gif" alt="logo"></a>
 
 [文档仓库](https://github.com/poboll/cai-api-doc)
 
-[Qi-API-SDK仓库](https://github.com/poboll/cai-api-sdk)
+[Cai-API-SDK仓库](https://github.com/poboll/cai-api-sdk)

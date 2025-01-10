@@ -54,7 +54,7 @@ postList: none
 <dependency>
     <groupId>com.caiths</groupId>
     <artifactId>cai-api-sdk</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
 </dependency>
 ```
 

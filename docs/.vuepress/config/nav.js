@@ -18,5 +18,5 @@ module.exports = [
         ]
     },
     {text: '问答', link: '/pages/9cc27d/'},
-    {text: '赞助', link: '/pages/1b12ed/'},
+    {text: '支持', link: '/pages/1b12ed/'},
 ]
